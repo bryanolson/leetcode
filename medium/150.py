@@ -25,7 +25,7 @@ class Solution:
         if operator == '*':
             return varb*vara
         if operator == '/':
-            return int(varb/vara) ##May need to round instead of floor division
+            return int(varb/vara)
 
         
         
